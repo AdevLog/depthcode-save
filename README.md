@@ -9,7 +9,7 @@ Data Source: https://github.com/tsunghan-wu/Depth-Completion
 
 --------
 Preprocessing:
-matterport3D's data include noises, require to execute clean_depth_noise.py first.
+matterport3D's data include noise, require to execute clean_depth_noise.py first.
 
 find glass area(output: uint8): glasscut.py\
 depth completeion method: glass_depth_completion.py
