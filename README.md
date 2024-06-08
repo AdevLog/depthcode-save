@@ -22,7 +22,7 @@ depth completion metrics: eval_depth_completion_metrics.py
 
 Ablation study in different methods: \
 OpenCV inpainting: cv_inpainting.py\
-Scipy griddata：griddata.py
+Scipy griddata: griddata.py
 
 npy file to exr file: BDepth_npy_to_exr.py\
 exr file to png file: convert_exr_depth_to_png.py
