@@ -1,5 +1,6 @@
 # depthcode-save
-Glass Detection for Depth Completion Lite ver
+Glass Detection for Depth Completion Lite ver.\
+Publication: *Glass Area Detection and Linear Interpolation for Indoor Depth Completion, 2023.* [Link](https://hdl.handle.net/11296/n728tt)
 
 
 Data Source: https://github.com/tsunghan-wu/Depth-Completion
