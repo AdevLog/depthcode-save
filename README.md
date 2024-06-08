@@ -2,7 +2,7 @@
 Glass Detection for Depth Completion Lite ver
 
 
-Data.zip (Source：https://github.com/tsunghan-wu/Depth-Completion/)
+Data Source：https://github.com/tsunghan-wu/Depth-Completion
 > --> Data_140 include GT Data and Render Data, total 140 pics.\
 --> no_glass_275 is non-glass dataset.\
 --> txt file include raw depth file paths, separate to GT Data and Render Data, modify it as needed.
